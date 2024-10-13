@@ -54,3 +54,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonBeer&repo=Alura-Pong&theme=outrun&show_icons=true)](https://github.com/RamonBeer/Alura-Pong)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonBeer&repo=Pokedevs&theme=outrun&show_icons=true)](https://github.com/RamonBeer/Projeto-Pokedevs)
+
+
+
